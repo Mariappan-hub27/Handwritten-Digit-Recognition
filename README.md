@@ -34,6 +34,17 @@ MNIST Dataset
 
 Test Accuracy: 98.79%
 
+## Project Screenshots
+
+### Accuracy
+![Accuracy](Model_accuracy.png)
+
+### Prediction
+![Prediction](prediction.png)
+
+### Accuracy Graph
+![Graph](accuracy-graph.png)
+
 ## Features
 
 - Image Classification
