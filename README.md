@@ -19,6 +19,19 @@ MNIST Dataset
 - NumPy
 - Matplotlib
 - CNN (Convolutional Neural Network)
+  
+## Trained Model
+
+The trained CNN model is included as:
+
+- digit_model.keras
+
+You can load it using:
+
+```python
+from tensorflow.keras.models import load_model
+
+model = load_model("digit_model.keras")
 
 ## Model Architecture
 
